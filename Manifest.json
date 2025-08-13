@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Chat",
+  "short_name": "GeminiChat",
+  "start_url": "index.html",
+  "display": "standalone"
+}
